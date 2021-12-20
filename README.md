@@ -1,9 +1,9 @@
 # Speed Test JS
 
 ## General Information
-**Preview** [open](http://jorit.vasconezgerlach.de/host/github/speed-test-js/)\
+**Preview** [open](http://jorit.vasconezgerlach.de/host/github/bouncy-ball-css/)\
 **Licence** Free to copy, edit and share\
-**Languages** JS, HTML, CSS
+**Languages** CSS, HTML
 
 ## About Creator
 Jorit Vásconez Gerlach\
